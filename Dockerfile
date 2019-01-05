@@ -7,4 +7,4 @@ npm i -g coin-hive --unsafe-perm=true --allow-root
 COPY package.json .
 COPY coin-hive.js .
 RUN npm install
-ENTRYPOINT npm run start
+ENTRYPOINT npm run start bndQ1JUgT31qVG9eLYCrry774BvPBUCC
